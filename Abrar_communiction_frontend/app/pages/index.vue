@@ -11,5 +11,8 @@ import Header from '~/components/Header.vue';
   <div>
     <HeroSection/>
   </div>
+  <div>
+    <AboutUs/>
+  </div>
   
 </template>
